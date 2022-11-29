@@ -1,0 +1,7 @@
+train: ./data/elkrec_elk_only_micro/images/train/
+val: ./data/elkrec_elk_only_micro/images/val/
+test: ./data/elkrec_elk_only_micro/images/test/
+
+nc: 1
+
+names: [ 'elk' ]
